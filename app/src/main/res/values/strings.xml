@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Generate and Scan QR Code</string>
+    <string name="welcome_to_qr_code_scanner_and_generator">Welcome to QR code Scanner and Generator</string>
+    <string name="generate_qr_code">Generate QR code</string>
+    <string name="scan_qr_code">Scan QR code</string>
+    <string name="add_text_to_embed_in_qr_code">Add text to Embed in QR code</string>
+    <string name="result_text_will_appear_here">Result Text Will Appear Here</string>
+    <string name="dev_name"><b>JR</b><i> DEV</i>lopers</string>
+    <string name="your_code_will_appear_here">Your Code will appear here</string>
+</resources>
